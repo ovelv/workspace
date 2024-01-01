@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://workspace.cool</id>
+    <title>Workspace.cool</title>
+    <updated>2024-01-01T09:50:30.821Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://workspace.cool"/>
+    <link rel="self" href="https://workspace.cool/atom.xml"/>
+    <subtitle>Share those cool workspaces</subtitle>
+    <logo>https://workspace.cool/images/avatar.png</logo>
+    <icon>https://workspace.cool/favicon.ico</icon>
+    <rights>All rights reserved 2024, Workspace.cool</rights>
+    <entry>
+        <title type="html"><![CDATA[068 Desk layout | Unlock a desk with a sense of home atmosphere at a low cost]]></title>
+        <id>https://workspace.cool/068-desk-layout-or-unlock-a-desk-with-a-sense-of-home-atmosphere-at-a-low-cost/</id>
+        <link href="https://workspace.cool/068-desk-layout-or-unlock-a-desk-with-a-sense-of-home-atmosphere-at-a-low-cost/">
+        </link>
+        <updated>2023-10-31T11:08:39.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[067 A desk full of atmosphere, where I created 3 independently developed works from 0 to 1]]></title>
+        <id>https://workspace.cool/067-a-desk-full-of-atmosphere-where-i-created-3-independently-developed-works-from-0-to-1/</id>
+        <link href="https://workspace.cool/067-a-desk-full-of-atmosphere-where-i-created-3-independently-developed-works-from-0-to-1/">
+        </link>
+        <updated>2023-10-23T10:42:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[066 Simple and practical desk, I made $100,000 on this desk]]></title>
+        <id>https://workspace.cool/066-simple-and-practical-desk-i-made-dollar100000-on-this-desk/</id>
+        <link href="https://workspace.cool/066-simple-and-practical-desk-i-made-dollar100000-on-this-desk/">
+        </link>
+        <updated>2023-10-23T10:29:39.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[065 My white desk brings a healing mood]]></title>
+        <id>https://workspace.cool/065-my-white-desk-brings-a-healing-mood/</id>
+        <link href="https://workspace.cool/065-my-white-desk-brings-a-healing-mood/">
+        </link>
+        <updated>2023-10-23T10:12:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[064 The Allure of a Table Set Bathed in Sunshine]]></title>
+        <id>https://workspace.cool/064-the-allure-of-a-table-set-bathed-in-sunshine/</id>
+        <link href="https://workspace.cool/064-the-allure-of-a-table-set-bathed-in-sunshine/">
+        </link>
+        <updated>2023-10-17T01:56:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[063 Crafting the Ideal Home Office: Your Guide to a Productive Workspace]]></title>
+        <id>https://workspace.cool/063-crafting-the-ideal-home-office-your-guide-to-a-productive-workspace/</id>
+        <link href="https://workspace.cool/063-crafting-the-ideal-home-office-your-guide-to-a-productive-workspace/">
+        </link>
+        <updated>2023-10-16T06:28:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[062 Desktop Sharing Minimalist Desk for Digital Bloggers]]></title>
+        <id>https://workspace.cool/062-desktop-sharing-minimalist-desk-for-digital-bloggers/</id>
+        <link href="https://workspace.cool/062-desktop-sharing-minimalist-desk-for-digital-bloggers/">
+        </link>
+        <updated>2023-10-13T02:14:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[061 Elevate Your Workspace: Creating a Simple and Stylish Office Table Setting]]></title>
+        <id>https://workspace.cool/061-elevate-your-workspace-creating-a-simple-and-stylish-office-table-setting/</id>
+        <link href="https://workspace.cool/061-elevate-your-workspace-creating-a-simple-and-stylish-office-table-setting/">
+        </link>
+        <updated>2023-10-13T01:59:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[060 Crafting a Stylish Workspace: How to Arrange a Good-Looking Desktop Office Space]]></title>
+        <id>https://workspace.cool/060-crafting-a-stylish-workspace-how-to-arrange-a-good-looking-desktop-office-space/</id>
+        <link href="https://workspace.cool/060-crafting-a-stylish-workspace-how-to-arrange-a-good-looking-desktop-office-space/">
+        </link>
+        <updated>2023-10-11T09:30:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[059 Crafting the Perfect Workspace: Setting Up Your Desk Step by Step]]></title>
+        <id>https://workspace.cool/059-crafting-the-perfect-workspace-setting-up-your-desk-step-by-step/</id>
+        <link href="https://workspace.cool/059-crafting-the-perfect-workspace-setting-up-your-desk-step-by-step/">
+        </link>
+        <updated>2023-10-08T13:33:11.000Z</updated>
+    </entry>
+</feed>
